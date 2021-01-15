@@ -1,0 +1,501 @@
+﻿id,gender,race,englishGPA,mathGPA,admit
+1,M,White,1.81,3.56,Reject
+2,M,White,1.3,1.58,Accept
+3,F,White,3.01,3.71,Accept
+4,F,White,2.11,2.63,Reject
+5,F,White,1.21,3.99,Accept
+6,F,Black or African American,2.79,2.8,Reject
+7,M,Black or African American,1.09,1.12,Reject
+8,F,White,1.94,1.89,Reject
+9,F,Asian,2.09,2.33,Accept
+10,M,Asian,3.76,2.28,Accept
+11,F,Asian,2.08,3.24,Accept
+12,M,White,3.21,3.49,Accept
+13,F,White,1.7,3.8,Reject
+14,F,Black or African American,3.08,2.04,Reject
+15,Non-Binary,White,3.73,3.18,Accept
+16,M,White,1.39,3.34,Accept
+17,M,Asian,3.68,1.73,Accept
+18,M,Black or African American,2.12,1.14,Reject
+19,F,American Indian or Alaska Native,2.09,2.5,Reject
+20,M,White,2.28,1.3,Accept
+21,F,White,3.74,3.21,Reject
+22,F,White,1.5,1.68,Accept
+23,F,Black or African American,2.5,1.89,Reject
+24,M,White,1.14,3.69,Reject
+25,F,Black or African American,1.94,2.03,Reject
+26,F,Black or African American,3.08,2.94,Reject
+27,M,American Indian or Alaska Native,2.74,3.5,Accept
+28,M,Black or African American,2.61,1.6,Reject
+29,F,White,1.78,1.06,Reject
+30,M,Black or African American,1.56,3.41,Reject
+31,F,White,2.24,2.91,Accept
+32,M,White,1.34,1.78,Reject
+33,M,White,1.87,3.52,Reject
+34,M,White,2.68,3.3,Accept
+35,F,Asian,3.58,1.07,Accept
+36,M,White,2.21,1.06,Accept
+37,M,Black or African American,3.8,2.26,Reject
+38,M,Asian,2.14,1.92,Reject
+39,Non-Binary,White,1.34,1.05,Accept
+40,F,White,3.4,1.92,Accept
+41,M,White,2.79,2.83,Accept
+42,Non-Binary,White,1.69,3.53,Accept
+43,F,Asian,1.78,3.02,Accept
+44,F,Black or African American,2.64,2.69,Reject
+45,M,Asian,1.62,3.08,Accept
+46,M,Asian,2.31,1.33,Accept
+47,F,Black or African American,3.56,3.27,Reject
+48,M,Black or African American,2.09,2.53,Reject
+49,M,White,1.96,1.53,Reject
+50,F,Asian,1.9,1.83,Accept
+51,M,Black or African American,2.49,3.54,Reject
+52,F,White,3.97,3.84,Accept
+53,M,White,1.24,1.82,Reject
+54,F,White,1.94,2.7,Reject
+55,F,White,1.57,2.75,Accept
+56,Non-Binary,Black or African American,3.18,2.42,Reject
+57,M,White,2.05,2.37,Reject
+58,M,White,1.34,2.77,Accept
+59,F,Asian,1.62,2.26,Accept
+60,M,American Indian or Alaska Native,2.9,3.36,Accept
+61,M,Asian,2.77,3.54,Accept
+62,F,Black or African American,2.1,2.23,Reject
+63,M,Black or African American,1.62,1.48,Reject
+64,F,Black or African American,2.37,1.87,Reject
+65,F,Asian,3.56,1.41,Reject
+66,M,White,2.27,1.91,Reject
+67,F,Black or African American,1.14,2.41,Reject
+68,M,White,1.57,1.14,Reject
+69,F,Asian,3.87,1.77,Reject
+70,M,White,2.14,3.63,Reject
+71,M,Black or African American,1.53,2.74,Reject
+72,F,Asian,3.59,1.13,Reject
+73,M,Asian,3.12,2.3,Accept
+74,F,Asian,2.69,2.75,Accept
+75,F,White,1.59,3.41,Reject
+76,F,Asian,2.21,3.97,Reject
+77,M,Native Hawaiian or Pacific Islander,1.48,3.9,Accept
+78,M,Black or African American,2.62,2.46,Reject
+79,F,White,1.39,3.63,Accept
+80,M,Black or African American,2.68,2.25,Reject
+81,F,White,1.62,3.1,Accept
+82,F,Asian,1.79,1.46,Reject
+83,F,White,3.02,3.09,Accept
+84,F,White,1.43,1.81,Reject
+85,M,White,1.93,1.03,Reject
+86,F,Asian,1.69,2.04,Reject
+87,M,Asian,1.07,3.84,Accept
+88,F,White,1.13,1.45,Reject
+89,M,White,1.1,2.67,Accept
+90,Non-Binary,White,1.9,1.45,Reject
+91,M,Asian,1.68,1.47,Accept
+92,M,Asian,2.14,3.84,Accept
+93,M,White,3.86,3.81,Accept
+94,M,American Indian or Alaska Native,2.71,1.37,Reject
+95,F,White,2.59,2.12,Accept
+96,M,Black or African American,3.54,1.43,Reject
+97,Non-Binary,White,2.69,2.49,Accept
+98,M,White,3.06,1.93,Reject
+99,M,White,3.88,3.02,Reject
+100,F,White,1.58,1.38,Accept
+101,M,White,2.17,3.39,Reject
+102,M,White,3.67,3.95,Accept
+103,F,Asian,2.31,1.7,Reject
+104,F,White,2.73,1.09,Reject
+105,F,White,3.83,2.95,Accept
+106,M,White,1.4,1.65,Accept
+107,F,White,3.17,3.19,Accept
+108,F,White,2.95,1.31,Accept
+109,M,White,3.72,3.2,Accept
+110,M,White,1.5,1.97,Reject
+111,F,Asian,2.88,2.15,Accept
+112,F,Asian,3.37,1.95,Accept
+113,M,Asian,2.13,1.91,Accept
+114,F,White,1.98,1.05,Accept
+115,Non-Binary,Black or African American,3.07,3.95,Reject
+116,F,Black or African American,3.05,3.26,Reject
+117,F,Asian,2.86,3.45,Accept
+118,F,White,3.82,2.99,Accept
+119,F,Black or African American,2.56,2.04,Reject
+120,F,White,3.05,3.36,Reject
+121,F,Black or African American,2.73,3.47,Reject
+122,M,American Indian or Alaska Native,1.14,1.93,Reject
+123,F,Asian,3.17,3.14,Accept
+124,F,Black or African American,2.9,2.73,Reject
+125,M,White,2.45,3.6,Reject
+126,M,Black or African American,3.06,1.32,Reject
+127,M,White,3.17,3.73,Accept
+128,M,White,2.8,1.97,Accept
+129,M,White,3.82,2.22,Accept
+130,F,Black or African American,3.38,1.78,Reject
+131,F,Asian,1.49,2.85,Reject
+132,F,White,2.38,2.67,Reject
+133,Non-Binary,Black or African American,1.06,1.1,Reject
+134,M,White,3.24,2.26,Accept
+135,M,White,3.8,3.29,Accept
+136,M,White,1.87,1.27,Reject
+137,M,Asian,1.94,3.51,Accept
+138,M,White,2.89,3.13,Accept
+139,M,Black or African American,1.8,3.29,Reject
+140,M,Black or African American,3.69,2.97,Reject
+141,F,White,2.64,3.69,Accept
+142,M,Native Hawaiian or Pacific Islander,3.09,2.49,Accept
+143,M,Black or African American,1.07,2.1,Reject
+144,F,Native Hawaiian or Pacific Islander,2.43,3.45,Accept
+145,F,Black or African American,3.48,3.66,Reject
+146,M,White,2.65,1.14,Reject
+147,F,White,1.55,1.47,Accept
+148,M,Asian,3.34,1.71,Accept
+149,F,Asian,2.08,2.65,Accept
+150,F,White,3.72,3.01,Accept
+151,M,White,2.51,3.16,Accept
+152,M,Black or African American,2.17,3.55,Reject
+153,M,Asian,2.84,2.17,Reject
+154,F,Asian,1.02,3.61,Accept
+155,F,Asian,1.93,1.07,Accept
+156,M,Black or African American,3.81,2.78,Reject
+157,M,White,2.76,3.42,Reject
+158,F,Black or African American,1.86,3.18,Reject
+159,M,Black or African American,2.04,2.46,Reject
+160,F,Black or African American,1.89,2.75,Reject
+161,F,Black or African American,2.7,2.44,Reject
+162,F,Asian,3.06,2.64,Reject
+163,M,White,3.44,2.97,Reject
+164,F,White,2,1.44,Accept
+165,M,White,2.74,3,Accept
+166,M,Asian,1.44,3.15,Accept
+167,M,Asian,2.63,1.4,Reject
+168,F,White,3.3,2.71,Accept
+169,M,Black or African American,3.54,1.02,Reject
+170,M,Asian,2.96,2.49,Accept
+171,F,White,3.99,3.15,Reject
+172,M,Asian,2.35,2.96,Accept
+173,M,White,1.86,1.9,Reject
+174,M,Asian,2.81,1.03,Reject
+175,M,Black or African American,2.2,3.25,Reject
+176,M,White,2.96,2.48,Accept
+177,F,Asian,1.49,1.32,Reject
+178,M,White,2.32,1.07,Reject
+179,M,White,2.95,1.16,Reject
+180,F,Black or African American,3.73,1.27,Reject
+181,F,Asian,1.82,2.79,Accept
+182,F,Asian,3.59,1.41,Reject
+183,F,Black or African American,3.98,3.41,Reject
+184,M,Asian,1.83,1.97,Accept
+185,M,Asian,1.74,3.55,Reject
+186,F,White,3.74,1.32,Reject
+187,F,White,3.49,3.87,Accept
+188,M,Black or African American,1.29,3.65,Reject
+189,M,White,3.66,3.83,Accept
+190,F,Asian,2.44,2.47,Reject
+191,M,White,1.25,3.16,Accept
+192,F,White,3.63,1.17,Reject
+193,M,White,2.78,2.19,Accept
+194,M,White,2.34,2.35,Accept
+195,F,Asian,2.27,2.72,Accept
+196,Non-Binary,Asian,2.33,1.74,Reject
+197,F,American Indian or Alaska Native,3.01,1.09,Reject
+198,F,White,3.35,1.45,Accept
+199,M,Asian,2.47,2.77,Accept
+200,F,Asian,2.64,3.39,Accept
+201,F,Black or African American,1.35,1.31,Reject
+202,M,Black or African American,1.6,3.79,Reject
+203,M,Asian,2,1.71,Accept
+204,F,White,2.33,1.62,Reject
+205,M,White,3.39,1.67,Accept
+206,F,White,3.54,1.98,Reject
+207,F,Black or African American,3.2,2.07,Reject
+208,M,Black or African American,1.28,1.59,Reject
+209,M,White,1.99,4,Reject
+210,M,White,2.84,3.12,Accept
+211,F,White,2.26,2.73,Reject
+212,M,White,2.36,3.37,Accept
+213,M,Black or African American,3.91,3.12,Reject
+214,M,White,2.54,3.49,Accept
+215,M,White,3.29,1.4,Accept
+216,M,White,1.89,3.45,Accept
+217,M,White,1.56,1.32,Reject
+218,M,Asian,2.85,3.36,Accept
+219,M,White,1.14,3.11,Reject
+220,M,Black or African American,2.05,2.05,Reject
+221,M,Black or African American,1.49,1.05,Reject
+222,M,Black or African American,1.1,2,Reject
+223,F,White,3.47,3.04,Reject
+224,F,Asian,2,3.37,Reject
+225,F,Native Hawaiian or Pacific Islander,2.58,1.55,Accept
+226,M,White,3.18,1.32,Accept
+227,F,White,2.25,1.68,Reject
+228,F,Black or African American,2.58,3.67,Reject
+229,M,American Indian or Alaska Native,2.7,3.91,Accept
+230,M,Asian,1.24,3.23,Accept
+231,F,Black or African American,1.11,2.25,Reject
+232,F,American Indian or Alaska Native,2.73,1.21,Accept
+233,M,White,3,2.06,Accept
+234,F,Black or African American,3.86,3.4,Reject
+235,F,White,3.31,3.61,Accept
+236,F,White,3.65,3.03,Accept
+237,F,White,1.9,1.93,Reject
+238,M,Black or African American,3.27,3.67,Reject
+239,M,White,2.82,2.35,Accept
+240,F,Asian,3.58,1.38,Reject
+241,F,White,1.34,3.31,Reject
+242,M,Black or African American,3.71,3.29,Reject
+243,M,White,1.89,3.69,Accept
+244,F,White,1.56,2.04,Reject
+245,M,Asian,1.65,1.19,Reject
+246,F,Asian,2.57,2.57,Accept
+247,F,White,3.69,1.37,Accept
+248,M,White,2.94,1.02,Reject
+249,M,White,2.42,2.22,Accept
+250,F,Black or African American,3.4,1.19,Reject
+251,F,White,1.71,1.18,Reject
+252,F,White,1.52,1.31,Reject
+253,F,White,1.5,3.11,Accept
+254,F,White,1.52,1.12,Accept
+255,F,White,1.72,3.59,Accept
+256,F,White,1.5,1.91,Accept
+257,Non-Binary,Black or African American,1.88,3.83,Reject
+258,F,White,1.96,2.74,Accept
+259,M,Black or African American,3.64,1.87,Reject
+260,F,White,1.14,1.25,Reject
+261,F,Black or African American,2.35,1.11,Reject
+262,F,Black or African American,2.63,3.79,Reject
+263,F,Asian,3.28,1.16,Accept
+264,F,White,2.5,2.48,Reject
+265,F,White,2.26,3.52,Accept
+266,M,Asian,1.07,3.06,Accept
+267,F,White,1.2,1.83,Reject
+268,F,Black or African American,2.46,2.61,Reject
+269,F,White,1.29,3.6,Accept
+270,F,Black or African American,3.25,1.2,Reject
+271,F,Asian,3.4,3.95,Accept
+272,Non-Binary,White,3.89,2.63,Accept
+273,F,Asian,1.57,2.02,Reject
+274,M,Black or African American,3.32,2.08,Reject
+275,M,White,2.36,2.96,Accept
+276,F,Black or African American,3.76,1.91,Reject
+277,M,Asian,2.12,1.06,Reject
+278,F,Asian,3.57,1.82,Reject
+279,F,Black or African American,3.09,3.57,Reject
+280,F,Asian,3.48,3.35,Accept
+281,M,Native Hawaiian or Pacific Islander,1.54,2.09,Reject
+282,F,White,2.51,3.78,Accept
+283,M,Black or African American,3.44,3.48,Reject
+284,F,Black or African American,1.25,3.5,Reject
+285,F,White,3.79,1.13,Accept
+286,F,Native Hawaiian or Pacific Islander,2.61,3.59,Reject
+287,F,White,2.36,1.97,Reject
+288,M,White,1.18,2.14,Reject
+289,F,White,3.58,1.13,Accept
+290,M,Black or African American,1.65,1.57,Reject
+291,F,Black or African American,2.48,2.52,Reject
+292,F,White,3.44,1.97,Accept
+293,F,White,2.39,2.62,Reject
+294,M,White,3.08,3.96,Accept
+295,M,White,1.64,2.47,Accept
+296,F,American Indian or Alaska Native,3.36,1.16,Accept
+297,M,White,3.49,2.46,Reject
+298,F,White,1.64,3.35,Accept
+299,F,White,1.44,2.45,Reject
+300,M,Black or African American,2.78,1.78,Reject
+301,M,Black or African American,3.76,1.31,Reject
+302,M,White,1.81,1.82,Reject
+303,M,White,2.19,2.26,Accept
+304,M,Native Hawaiian or Pacific Islander,2.87,1.98,Accept
+305,M,Black or African American,3.89,3.54,Reject
+306,M,White,2.15,3.45,Accept
+307,M,White,1.54,3.44,Reject
+308,F,American Indian or Alaska Native,2.16,3.08,Accept
+309,M,White,2.79,3.59,Reject
+310,F,White,3.64,2.85,Accept
+311,M,Black or African American,1.55,3.29,Reject
+312,M,Native Hawaiian or Pacific Islander,2.44,2.11,Accept
+313,F,Asian,2,2.27,Accept
+314,M,White,2.01,1.17,Reject
+315,M,White,1.9,3.44,Reject
+316,F,Black or African American,3.45,2.28,Reject
+317,M,Black or African American,3.5,2.11,Reject
+318,F,White,2.88,2.21,Accept
+319,F,White,2.46,1.98,Accept
+320,M,Asian,2.32,2.5,Accept
+321,M,Asian,3.53,2.72,Accept
+322,M,Asian,3.65,2.27,Accept
+323,M,Native Hawaiian or Pacific Islander,1.46,1.75,Accept
+324,F,Black or African American,3.5,1.21,Reject
+325,M,Native Hawaiian or Pacific Islander,1.52,3.49,Accept
+326,M,White,1.72,2.51,Accept
+327,M,White,3.2,3.84,Accept
+328,F,Black or African American,1.9,1.27,Reject
+329,F,White,1.03,1.81,Accept
+330,F,White,2.24,2.47,Accept
+331,F,Black or African American,2.26,3.97,Reject
+332,M,Black or African American,2.08,3.32,Reject
+333,M,Asian,2.45,3.36,Accept
+334,M,Black or African American,2.62,3.25,Reject
+335,F,White,1.47,3.43,Reject
+336,F,White,2.07,1.22,Accept
+337,M,White,3.39,1.55,Accept
+338,F,White,2.74,2.45,Accept
+339,Non-Binary,Black or African American,1.94,1.06,Reject
+340,M,White,3.99,1.39,Accept
+341,F,White,1.72,2.29,Reject
+342,M,Asian,1.55,2.87,Accept
+343,M,White,3.17,3.74,Reject
+344,M,Black or African American,2.91,1.05,Reject
+345,F,Asian,1.56,2.53,Reject
+346,F,Black or African American,3.92,1.28,Reject
+347,M,Asian,1.62,2.83,Reject
+348,F,White,3.56,3.06,Accept
+349,F,Black or African American,1.5,1.52,Reject
+350,M,White,3.05,1.59,Reject
+351,F,White,1.9,2.93,Reject
+352,F,White,2.06,3.46,Reject
+353,F,Black or African American,2.98,3.93,Reject
+354,F,White,3.57,3.38,Accept
+355,F,Native Hawaiian or Pacific Islander,1.16,2.17,Reject
+356,F,Black or African American,3.03,1.68,Reject
+357,F,Native Hawaiian or Pacific Islander,2.86,3.6,Accept
+358,M,Asian,1.29,3.84,Accept
+359,M,White,3.08,3.04,Accept
+360,F,White,2.29,3.2,Accept
+361,M,Asian,1.85,1.83,Reject
+362,M,White,3.61,3.76,Accept
+363,M,Asian,1.58,3.93,Accept
+364,F,Black or African American,1.49,1.57,Reject
+365,F,White,3.43,2.63,Accept
+366,M,Black or African American,1.48,1.25,Reject
+367,M,White,2.71,1.4,Accept
+368,F,Asian,3.67,2.69,Accept
+369,M,American Indian or Alaska Native,3.97,1.39,Accept
+370,M,White,3.41,1.05,Accept
+371,M,White,1.65,1.1,Accept
+372,M,Black or African American,2.71,2.83,Reject
+373,M,Asian,1.07,1.69,Reject
+374,F,White,1.73,2.98,Reject
+375,M,White,2.98,2.14,Reject
+376,F,Asian,2.5,1.15,Reject
+377,F,Black or African American,2.23,3.57,Reject
+378,F,American Indian or Alaska Native,1.95,3.14,Reject
+379,F,Asian,1.85,3.84,Accept
+380,F,Black or African American,1.37,3.72,Reject
+381,Non-Binary,White,3.12,1.5,Accept
+382,M,Black or African American,2.28,2.5,Reject
+383,Non-Binary,White,2.68,3.37,Accept
+384,F,Asian,2.79,1.1,Reject
+385,M,White,3.03,3.67,Accept
+386,M,White,1.53,1.26,Accept
+387,F,White,3.09,3.31,Reject
+388,Non-Binary,Asian,1.35,2.78,Reject
+389,F,Asian,1.89,1.97,Reject
+390,M,Black or African American,2.18,2.77,Reject
+391,F,American Indian or Alaska Native,1.87,3.63,Reject
+392,M,White,3.21,3.85,Accept
+393,M,White,2.69,3.17,Accept
+394,F,American Indian or Alaska Native,3.58,3.19,Reject
+395,M,Asian,2.56,3.51,Reject
+396,Non-Binary,Asian,1.93,3.67,Accept
+397,F,White,1.33,2.36,Accept
+398,M,Asian,1.73,1.29,Accept
+399,M,White,3.89,3.47,Accept
+400,M,Native Hawaiian or Pacific Islander,2.04,2.63,Reject
+401,M,White,1.82,3.38,Reject
+402,M,White,1.25,1.57,Reject
+403,F,White,3.55,2.5,Accept
+404,M,White,1.44,1.72,Reject
+405,M,Black or African American,1.59,2.48,Reject
+406,M,White,3.15,2.26,Accept
+407,F,Black or African American,2.29,2.09,Reject
+408,Non-Binary,Asian,1.89,3.23,Accept
+409,F,Black or African American,2.47,2.32,Accept
+410,Non-Binary,Asian,3.25,3.55,Reject
+411,F,Black or African American,1.47,3.74,Reject
+412,M,Asian,3.33,2.34,Reject
+413,M,Black or African American,2.7,1.64,Reject
+414,F,White,2.9,2.44,Accept
+415,M,White,1.43,2.78,Reject
+416,F,Black or African American,1.34,3.45,Reject
+417,F,White,2.24,1.56,Accept
+418,F,Black or African American,2.11,3.72,Reject
+419,F,White,1.52,3.33,Accept
+420,Non-Binary,American Indian or Alaska Native,2.92,3.15,Reject
+421,M,White,3.18,2.5,Reject
+422,M,Asian,3.61,2.83,Reject
+423,M,Black or African American,2.79,2.58,Reject
+424,F,Black or African American,3.94,2.73,Reject
+425,F,Black or African American,3.3,2.87,Reject
+426,F,Black or African American,2.4,1.96,Reject
+427,F,Black or African American,1.5,3.26,Reject
+428,M,Asian,3.44,2.85,Reject
+429,F,White,2.46,3.94,Reject
+430,M,White,3.72,2.4,Accept
+431,M,White,1.7,2.76,Accept
+432,Non-Binary,Asian,3.35,1.32,Reject
+433,M,Black or African American,2.63,3.71,Reject
+434,F,Black or African American,3.48,1.72,Reject
+435,M,Black or African American,3.98,3.12,Reject
+436,M,White,2.13,3.54,Accept
+437,M,Black or African American,3.7,1.13,Reject
+438,M,White,3.17,1.95,Accept
+439,M,Asian,3.83,1.57,Reject
+440,F,White,1.7,3.32,Accept
+441,F,Black or African American,1.93,3.45,Reject
+442,F,White,1.7,1.57,Reject
+443,M,White,3.69,2.3,Accept
+444,F,White,1.23,3.08,Reject
+445,F,White,3.57,2.74,Accept
+446,M,Black or African American,1.87,3.9,Reject
+447,Non-Binary,White,1.93,2.99,Reject
+448,M,Black or African American,2.55,2.21,Reject
+449,M,Black or African American,2.49,1.86,Reject
+450,F,Asian,1,1.44,Accept
+451,F,White,1.68,3.13,Reject
+452,F,Asian,2.64,1.61,Accept
+453,M,White,2.6,3.78,Accept
+454,F,American Indian or Alaska Native,3.48,3.24,Accept
+455,F,Asian,2.14,3.04,Accept
+456,F,White,2.18,1.85,Reject
+457,M,Black or African American,2.61,3.18,Reject
+458,F,Black or African American,1.96,3.51,Reject
+459,M,Black or African American,3.48,1.51,Reject
+460,F,White,1.43,1.71,Reject
+461,M,White,1.8,1.12,Reject
+462,M,White,3.6,1.49,Reject
+463,F,White,1.59,2.79,Accept
+464,F,White,3.05,1.27,Reject
+465,M,Black or African American,2.95,2.75,Reject
+466,M,Black or African American,3.54,2.26,Reject
+467,F,White,3.05,1.58,Reject
+468,F,White,1.29,3.63,Reject
+469,Non-Binary,White,2.8,3.35,Reject
+470,F,Native Hawaiian or Pacific Islander,3.42,2.1,Accept
+471,F,White,3.43,1.87,Accept
+472,M,Black or African American,2.01,3.38,Reject
+473,M,Native Hawaiian or Pacific Islander,2.44,3.38,Accept
+474,M,Black or African American,2.89,2.96,Reject
+475,M,Black or African American,2.36,2.82,Reject
+476,M,Black or African American,3.74,3.55,Reject
+477,M,Black or African American,2.66,2.39,Reject
+478,M,Asian,1.04,1.07,Reject
+479,F,White,1.62,1.66,Accept
+480,M,White,3.98,1.46,Accept
+481,M,Asian,2.36,2.29,Accept
+482,M,Asian,3.84,3.86,Accept
+483,M,Asian,2.23,2.41,Reject
+484,Non-Binary,Black or African American,1.83,1.02,Reject
+485,F,Black or African American,3.14,2.33,Reject
+486,F,Black or African American,3.1,3.85,Reject
+487,M,White,1.75,2.97,Reject
+488,F,Black or African American,1.79,2.4,Reject
+489,M,White,1.85,2.37,Accept
+490,M,White,3.13,2.68,Reject
+491,F,Native Hawaiian or Pacific Islander,3.2,3.32,Reject
+492,M,Black or African American,3.76,2.44,Reject
+493,F,White,3.42,2.49,Accept
+494,M,Black or African American,2.77,3.1,Reject
+495,F,Black or African American,2.88,3.86,Reject
+496,M,White,1.37,2.5,Reject
+497,Non-Binary,Asian,3.7,1.43,Accept
+498,M,Black or African American,3.85,1.53,Reject
+499,F,Black or African American,2.15,3.57,Reject
+500,M,White,1.06,3.5,Reject
