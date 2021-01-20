@@ -1,0 +1,54 @@
+{
+  "defaultLabelColumn": "recommendation",
+  "fields": [
+    {
+      "id": "age",
+      "type": "categorical",
+      "values": {
+        "categories": ["Under 18", "18-34", "35-60", "Over 60"]
+      }
+    },
+    {
+      "id": "gender",
+      "type": "categorical",
+      "values": {
+        "categories": ["male", "female"]
+      }
+    },
+    {
+      "id": "personality type",
+      "type": "categorical",
+      "values": {
+        "categories": ["introvert", "extrovert"]
+      }
+    },
+    {
+      "id": "Favorite way to spend time",
+      "type": "categorical",
+      "values": {
+        "categories": ["Reading a book", "Walking in Nature", "With friends and family", "Learning something new"]
+      }
+    },
+    {
+      "id": "Morning Routine",
+      "type": "categorical",
+      "values": {
+        "categories": ["Get up early", "Sleep in late"]
+      }
+    },
+    {
+      "id": "Favorite Pet",
+      "type": "categorical",
+      "values": {
+        "categories": ["Dog", "Cat", "Fish", "No pet!"]
+      }
+    },
+    {
+      "id": "recommendation",
+      "type": "categorical",
+      "values": {
+        "categories": ["Myspace", "Instagram", "TikTok", "Twitter"]
+      }
+    }
+  ]
+}

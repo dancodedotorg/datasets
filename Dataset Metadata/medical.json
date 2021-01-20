@@ -54,7 +54,7 @@
       "id": "decision",
       "type": "categorical",
       "values": {
-        "categories": ["priority", "normal", "reject"]
+        "categories": ["priority", "normal", "return later"]
       }
     }
   ]
