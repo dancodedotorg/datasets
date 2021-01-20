@@ -1,4 +1,3 @@
-```
 {
   "defaultLabelColumn": "decision",
   "fields": [
@@ -6,57 +5,57 @@
   		"id": "age",
   		"type": "categorical",
   		"values": {
-			"categories": ["Under 18", "18-34", "35-60", "Over 60"]
-		}
+        "categories": ["Under 18", "18-34", "35-60", "Over 60"]
+		  }
   	},
   	{
   		"id": "gender",
   		"type": "categorical",
-		"values": {
-			"categories": ["male", "female"]
-		}
+      "values": {
+        "categories": ["male", "female"]
+      }
   	},
   	{
   		"id": "race",
   		"type": "categorical",
-		"values": {
-			"categories": ["White", "Black or African American", "Asian", "American Indian or Alaska Native", "Native Hawaiian or Pacific Islander"]
-		}
+      "values": {
+        "categories": ["White", "Black or African American", "Asian", "American Indian or Alaska Native", "Native Hawaiian or Pacific Islander"]
+      }
   	},
   	{
   		"id": "bleeding?",
   		"type": "categorical",
-		"values": {
-			"categories": ["yes", "no"]
-		}
+      "values": {
+        "categories": ["yes", "no"]
+      }
   	},
   	{
   		"id": "shortness of breath?",
   		"type": "categorical",
-		"values": {
-			"categories": ["yes", "no"]
-		}
+      "values": {
+        "categories": ["yes", "no"]
+      }
   	},
   	{
   		"id": "weight",
   		"type": "categorical",
-		"values": {
-			"categories": ["under 100 lbs", "100-150 lbs", "150-200 lbs", "200-300 lbs", "Over 300 lbs"]
-		}
+      "values": {
+        "categories": ["under 100 lbs", "100-150 lbs", "150-200 lbs", "200-300 lbs", "Over 300 lbs"]
+      }
   	},
   	{
   		"id": "area of pain",
   		"type": "categorical",
-		"values": {
-			"categories": ["head", "chest", "limb", "stomach"]
-		}
+      "values": {
+        "categories": ["head", "chest", "limb", "stomach"]
+      }
   	},
   	{
   		"id": "decision",
   		"type": "categorical",
-		"values": {
-			"categories": ["priority", "normal", "reject"]
+      "values": {
+        "categories": ["priority", "normal", "reject"]
+      }
   	}
   ]
 }
-```
