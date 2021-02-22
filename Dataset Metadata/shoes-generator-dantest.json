@@ -1,0 +1,242 @@
+{
+  "categories": [
+    {
+      "id": "tennis shoes",
+      "freq": 0.3,
+      "correlations": [
+        {
+          "id": "Q1",
+          "values": {
+            "bed": 0,
+            "indoors": 0.5,
+            "city": 0.4,
+            "nature": 0.1
+          }
+        },
+        {
+          "id": "Q2",
+          "values":  {
+            "sunny": 0.5,
+            "rainy": 0.1,
+            "snowy": 0,
+            "windy": 0.4
+          }
+        },
+        {
+          "id": "Q3",
+          "values": {
+            "yes": 0.8,
+            "no": 0.2
+          }
+        },
+        {
+          "id": "Q4":
+          "values": {
+            "casual": 0.5,
+            "professional": 0.2,
+            "work": 0.1,
+            "lazy": 0.2
+          }
+        },
+        {
+          "id": "Q5",
+          "values": {
+            "yes": 0.8,
+            "no": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sandals",
+      "freq": 0.15,
+      "correlations": [
+        {
+          "id": "Q1",
+          "values": {
+            "bed": 0.3,
+            "indoors": 0.2,
+            "city": 0.2,
+            "nature": 0.3
+          }
+        },
+        {
+          "id": "Q2",
+          "values": {
+            "sunny": 0.6,
+            "rainy": 0.1,
+            "snowy": 0,
+            "windy": 0.3
+          }
+        },
+        {
+          "id": "Q3",
+          "values": {
+            "yes": 0.1,
+            "no": 0.9
+          }
+        },
+        {
+          "id": "Q4",
+          "values": {
+            "casual": 0.4,
+            "professional": 0,
+            "work": 0.2,
+            "lazy": 0.4
+          }
+        },
+        {
+          "id": "Q5",
+          "values": {
+            "yes": 0.5,
+            "no": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "work boots",
+      "freq": 0.2,
+      "correlations": [
+        {
+          "id": "Q1",
+          "values": {
+            "bed": 0,
+            "indoors": 0.1,
+            "city": 0.45,
+            "nature": 0.45
+          }
+        },
+        {
+          "id": "Q2",
+          "values": {
+            "sunny": 0.1,
+            "rainy": 0.2,
+            "snowy": 0.6,
+            "windy": 0.1
+          }
+        },
+        {
+          "id": "Q3",
+          "values": {
+            "yes": 1,
+            "no": 0
+          }
+        },
+        {
+          "id": "Q4",
+          "values": {
+            "casual": 0.1,
+            "professional": 0.15,
+            "work": 0.75,
+            "lazy": 0
+          }
+        },
+        {
+          "id": "Q5",
+          "values": {
+            "yes": 0.5,
+            "no": 0.5
+          }
+        }
+      ]
+    },
+    //LEFT OFF HERE!
+    {
+      "id": "cowboy boots",
+      "freq": 0.1,
+      "correlations": {
+        "Q1": {
+          "bed": 0.1,
+          "indoors": 0.3,
+          "city": 0.3,
+          "nature": 0.3
+        },
+        "Q2": {
+          "sunny": 0.3,
+          "rainy": 0.3,
+          "snowy": 0.1,
+          "windy": 0.3
+        },
+        "Q3": {
+          "yes": 0.5,
+          "no": 0.5
+        },
+        "Q4": {
+          "casual": 0.4,
+          "professional": 0.4,
+          "work": 0.1,
+          "lazy": 0.1
+        },
+        "Q5": {
+          "yes": 1,
+          "no": 0
+        }
+      }
+    },
+    {
+      "id": "dress shoes",
+      "freq": 0.15,
+      "correlations": {
+        "Q1": {
+          "bed": 0,
+          "indoors": 0.6,
+          "city": 0.2,
+          "nature": 0.2
+        },
+        "Q2": {
+          "sunny": 0.25,
+          "rainy": 0.25,
+          "snowy": 0.25,
+          "windy": 0.25
+        },
+        "Q3": {
+          "yes": 0.8,
+          "no": 0.2
+        },
+        "Q4": {
+          "casual": 0.05,
+          "professional": 0.9,
+          "work": 0.05,
+          "lazy": 0
+        },
+        "Q5": {
+          "yes": 0.5,
+          "no": 0.5
+        }
+      }
+    },
+    {
+      "id": "crocs",
+      "freq": 0.1,
+      "correlations": {
+        "Q1": {
+          "bed": 0.3,
+          "indoors": 0.2,
+          "city": 0.2,
+          "nature": 0.3
+        },
+        "Q2": {
+          "sunny": 0.4,
+          "rainy": 0.15,
+          "snowy": 0.15,
+          "windy": 0.3
+        },
+        "Q3": {
+          "yes": 0.4,
+          "no": 0.6
+        },
+        "Q4": {
+          "casual": 0.3,
+          "professional": 0.3,
+          "work": 0.1,
+          "lazy": 0.3
+        },
+        "Q5": {
+          "yes": 0.5,
+          "no": 0.5
+        }
+      }
+    }
+  ]
+}

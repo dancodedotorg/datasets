@@ -1,0 +1,47 @@
+{
+  "defaultLabelColumn": "recommendation",
+  "fields": [
+    {
+      "id": "Q1",
+      "type": "categorical",
+      "values": {
+        "categories": ["bed", "indoors", "city", "nature"]
+      }
+    },
+    {
+      "id": "Q2",
+      "type": "categorical",
+      "values": {
+        "categories": ["sunny", "rainy", "snowy", "windy"]
+      }
+    },
+    {
+      "id": "Q3",
+      "type": "categorical",
+      "values": {
+        "categories": ["yes", "no"]
+      }
+    },
+    {
+      "id": "Q4",
+      "type": "categorical",
+      "values": {
+        "categories": ["casual", "professional", "work", "lazy"]
+      }
+    },
+    {
+      "id": "Q5",
+      "type": "categorical",
+      "values": {
+        "categories": ["yes", "no"]
+      }
+    },
+    {
+      "id": "recommendation",
+      "type": "categorical",
+      "values": {
+        "categories": ["tennis shoes", "sandals", "work boots", "cowboy boots", "dress shoes", "crocs"]
+      }
+    }
+  ]
+}
